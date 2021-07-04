@@ -17,4 +17,4 @@ microk8s kubectl scale deployment microbot --replicas=2
 microk8s kubectl expose deployment microbot --type=NodePort --port=80 --name=microbot-service  
 
 look for NodePod Port  
-access through chrome http://localhost:NodePod Port  
+access through chromeyhttp://localhost:NodePod Port  
